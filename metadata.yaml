@@ -1,0 +1,32 @@
+_repo: Old-Testament-Legends--13-Being-stories-out-of-some-of-the-less-known-apocryphal-books-of-the__15874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, M. R. (Montague Rhodes)
+    aliases:
+    - James, M.R.
+    - James, Montague Rhodes
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '2768'
+    url: http://www.gutenberg.org/2009/agents/2768
+    wikipedia: http://en.wikipedia.org/wiki/M._R._James
+description: ''
+gutenberg_issued: '2005-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish legends -- Juvenile literature'
+- !lcc 'BS'
+- !lcsh 'Apocryphal books (Old Testament) -- Juvenile literature'
+title: "Old Testament Legends\r\nBeing stories out of some of the less-known apocryphal\
+  \ books of the Old Testament"
+url: http://www.gutenberg.org/ebooks/15874
